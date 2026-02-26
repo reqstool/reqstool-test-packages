@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: Luftfartsverket/reqstool-client
+          repository: reqstool/reqstool-client
           ref: ${{ inputs.ref }}
       - uses: actions/setup-java@v4
         with:

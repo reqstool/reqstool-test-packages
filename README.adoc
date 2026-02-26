@@ -4,4 +4,4 @@ This repoistory is for GitHub Packages that are used for tests - not relevant fo
 
 E.g.
 
-* https://github.com/Luftfartsverket/reqstool-client[reqstool-client] has tests that require downloading a Maven Zip artifact from a Maven repository.
+* https://github.com/reqstool/reqstool-client[reqstool-client] has tests that require downloading a Maven Zip artifact from a Maven repository.
